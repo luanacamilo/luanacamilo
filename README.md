@@ -16,7 +16,7 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 ## 🛠 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i= js,html,css,nodejs,react,python,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,python,mysql,mongodb"/>
 </p>
 
 ---
@@ -25,10 +25,9 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 
 <p align="left">
   <a href="mailto:luanacamilotec@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="120" height="60"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="70" height="100"/>
   </a>
   <a href="https://www.linkedin.com/in/luana-camilo-b1b5a117a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="120" height="60"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="100"/>
   </a>
 </p>
-
