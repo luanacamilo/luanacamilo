@@ -36,7 +36,7 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&l
 ### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)\
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)\
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
 
 ### Tools I Use:
@@ -47,7 +47,7 @@ Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&l
 IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)\
 ![Power
 BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)\
-!
+
 
 
 ------------------------------------------------------------------------
