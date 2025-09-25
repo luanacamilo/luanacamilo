@@ -51,6 +51,7 @@ BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoCo
 
 ## 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luanacamilotec@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-camilo-b1b5a117a/)
+
