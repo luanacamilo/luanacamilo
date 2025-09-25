@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Luana Camilo
+# Hi there, I'm Luana Camilo
 
 *A passionate and dedicated developer transitioning into tech — constantly learning, exploring, and growing.  
 I’m curious by nature, driven by purpose, and I truly enjoy solving problems and building solutions through technology.*
@@ -21,13 +21,9 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 
 ---
 
-##  Contact Me  
 
-<p align="left">
-  <a href="mailto:luanacamilotec@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="70" height="100"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luana-camilo-b1b5a117a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="70" height="100"/>
-  </a>
-</p>
+## Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=firefox&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]()
