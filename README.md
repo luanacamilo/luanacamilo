@@ -5,7 +5,7 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🎓 I’m currently studying at university and taking online courses via DevMedia, communities, and other platforms.  
 - 🔄 Career shifter: I’m transitioning into the tech world with strong soft skills and a growth mindset.  
 - 📚 Always learning: JavaScript, Python, HTML, CSS, MySQL, SQL, APIs, Power BI, and MongoDB.  
@@ -13,7 +13,7 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,python,mysql,mongodb"/>
@@ -21,7 +21,7 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 
 ---
 
-## 📬 Contact Me  
+##  Contact Me  
 
 <p align="left">
   <a href="mailto:luanacamilotec@gmail.com">
