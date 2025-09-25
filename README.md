@@ -16,7 +16,7 @@ I’m curious by nature, driven by purpose, and I truly enjoy solving problems a
 ## 🛠 Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,python, mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i= js,html,css,nodejs,react,python,mysql,mongodb"/>
 </p>
 
 ---
